@@ -1,5 +1,12 @@
 import asyncio
 import logging
+
+
+
+
+
+
+
 """from dotenv import load_dotenv 
    Эта хуйня короче позволяет скрыть токен при загрузке в общий доступ и я подумал, что нам это в копилку засчитают но сука по одномой только богам извстной причине эта залупа не работает """
 from aiogram import Bot, Dispatcher, types
